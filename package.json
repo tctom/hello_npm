@@ -1,6 +1,6 @@
 {
   "name": "hello_npm_chao",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "none",
   "main": "index.js",
   "scripts": {
