@@ -1,0 +1,23 @@
+{
+  "name": "hello_npm_world",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Chao Tang",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tctom/hello_npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tctom/hello_npm/issues"
+  },
+  "homepage": "https://github.com/tctom/hello_npm#readme"
+}
